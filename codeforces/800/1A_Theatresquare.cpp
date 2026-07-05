@@ -1,3 +1,27 @@
+
+/*
+---------------------------------------------------------
+Problem : Codeforces 1A - Theatre Square
+Rating  : 800
+Link    : https://codeforces.com/problemset/problem/1/A
+
+Concepts
+---------
+- Mathematics
+- Implementation
+
+Time Complexity : O(1)
+Space Complexity: O(1)
+
+What I Learned
+--------------
+- Reading multiple test cases
+- Mathematical calculations for grid coverage
+---------------------------------------------------------
+*/
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
