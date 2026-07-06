@@ -2,23 +2,22 @@
 
 /*
 ---------------------------------------------------------
-Problem : Codeforces 71A - Way Too Long Words
+Problem : Codeforces 158A - Next Round
 Rating  : 800
-Link    : https://codeforces.com/problemset/problem/71/A
+Link    : https://codeforces.com/problemset/problem/158/A
 
 Concepts
 ---------
-- Strings
+- Arrays
 - Implementation
 
-Time Complexity : O(n × L)
-Space Complexity: O(1)
+Time Complexity : O(n)
+Space Complexity: O(n)
 
 What I Learned
 --------------
 - Reading multiple test cases
-- String length using size()
-- Accessing first and last character
+- Accessing array elements by index
 ---------------------------------------------------------
 */
 
